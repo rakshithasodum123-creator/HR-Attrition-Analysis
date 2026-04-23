@@ -23,6 +23,11 @@ This project analyzes employee attrition data to identify the key factors influe
 - Higher attrition observed in Sales department
 - Employees with lower salary show higher attrition
 - Certain job roles have higher turnover rates
+  
+💡 Recommendations
+- Reduce overtime workload in critical roles
+- Improve compensation for low salary employees
+- Focus on retention strategies in sales departments
 
 📅 Project Duration 
 Feb 2026 – Mar 2026
